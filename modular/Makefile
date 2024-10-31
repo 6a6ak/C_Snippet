@@ -1,7 +1,7 @@
 PROG = main.exe 
-SRC = main.c
+SRC = main.c module01.c
 #CFLAGS = -g
-CFLAGS =-g -wall -werror
+CFLAGS = -wall -werror
 LIBS = 
 
 all: $(PROG)

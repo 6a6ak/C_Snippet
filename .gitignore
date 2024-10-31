@@ -12,3 +12,6 @@ nordisk
 size
 temp37_5
 variables
+csv_file/.vscode/tasks.json
+csv_file/.vscode/launch.json
+csv_file/.vscode/settings.json
