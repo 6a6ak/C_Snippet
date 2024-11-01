@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/babak/git/C_Snippet/Hockey_Team",
+            "binaryPath": "/home/babak/git/C_Snippet/Hockey_Team/main.exe",
+            "binaryArgs": []
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/babak/git/C_Snippet/exercises",
+            "binaryPath": "/home/babak/git/C_Snippet/exercises/main.exe",
+            "binaryArgs": []
+        }
+    ]
+}
