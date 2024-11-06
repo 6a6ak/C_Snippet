@@ -4,6 +4,11 @@
       "cwd": "d:\\Codes\\git\\C_Snippet\\Hockey_players",
       "binaryPath": "d:\\Codes\\git\\C_Snippet\\Hockey_players\\main.exe",
       "binaryArgs": []
+    },
+    {
+      "cwd": "b:\\Git\\C_Snippet\\Hockey_players",
+      "binaryPath": "b:\\Git\\C_Snippet\\Hockey_players\\main.exe",
+      "binaryArgs": []
     }
   ]
 }
