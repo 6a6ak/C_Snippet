@@ -1,0 +1,14 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\Codes\\Git\\C_Snippet\\random_dice",
+            "binaryPath": "d:\\Codes\\Git\\C_Snippet\\random_dice\\main.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\Codes\\Git\\C_Snippet\\max_selector",
+            "binaryPath": "d:\\Codes\\Git\\C_Snippet\\max_selector\\main.exe",
+            "binaryArgs": []
+        }
+    ]
+}

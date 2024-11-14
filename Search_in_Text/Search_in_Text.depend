@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1731568550 source:d:\codes\git\c_snippet\search_in_text\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+	"safeinput.h"
+
+1731568765 d:\codes\git\c_snippet\search_in_text\safeinput.h
+	<stdbool.h>
+
+1731568712 source:d:\codes\git\c_snippet\search_in_text\safeinput.c
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<stdlib.h>
+	"safeinput.h"
+

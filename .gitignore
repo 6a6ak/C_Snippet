@@ -15,3 +15,12 @@ variables
 csv_file/.vscode/tasks.json
 csv_file/.vscode/launch.json
 csv_file/.vscode/settings.json
+exercises/.vscode/settings.json
+alllessthanx/.vscode/settings.json
+String/name_age/.vscode/c_cpp_properties.json
+Array/.vscode/c_cpp_properties.json
+Array/.vscode/launch.json
+Array/.vscode/settings.json
+String/name_age/.vscode/launch.json
+String/name_age/.vscode/settings.json
+String/name_age/.vscode/tasks.json

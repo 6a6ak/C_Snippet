@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1731588115 source:d:\codes\git\c_snippet\binary_work\main.c
+	<stdio.h>
+	<stdlib.h>
+
